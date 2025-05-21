@@ -1,4 +1,4 @@
-# Documentação do projeto
+# Documentação do case
 
 ## Grupo 69
 
@@ -36,3 +36,7 @@ Realizar as tarefas abaixo:
 ### Validação estatística:
 
 - Utilize métricas estatísticas para validar a eficácia do modelo (p-value, intervalos de confiança).
+
+## Vídeo demonstrativo
+
+Acesse o [**vídeo**](https://youtu.be/9aqIvqrYoPM) demonstrativo do case.
